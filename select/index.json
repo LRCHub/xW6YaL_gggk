@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "This Town",
+  "base_artist": "Niall Horan",
+  "createdAt": "2026-03-11T05:30:32.126925Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Circles Around This Town",
+      "artist": "Maren Morris",
+      "has_synced": true,
+      "path": "select/01_Circles_Around_This_Town_Maren_Morris.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tattoos on This Town",
+      "artist": "Jason Aldean",
+      "has_synced": true,
+      "path": "select/02_Tattoos_on_This_Town_Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Run This Town",
+      "artist": "lil wayne",
+      "has_synced": true,
+      "path": "select/03_Run_This_Town_lil_wayne.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Do You Believe This Town",
+      "artist": "Dean Martin",
+      "has_synced": false,
+      "path": "select/04_Do_You_Believe_This_Town_Dean_Martin.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Do You Believe This Town?",
+      "artist": "Dean Martin",
+      "has_synced": false,
+      "path": "select/05_Do_You_Believe_This_Town_Dean_Martin.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fuck This Town",
+      "artist": "Johan Lenox",
+      "has_synced": true,
+      "path": "select/06_Fuck_This_Town_Johan_Lenox.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Get Out Of This Town - Piano/Tambourine Demo",
+      "artist": "Elton John",
+      "has_synced": false,
+      "path": "select/07_Get_Out_Of_This_Town_-_Piano_Tambourine_Demo_Elton_John.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "First Boy In This Town (Lovesick)",
+      "artist": "Scritti Politti",
+      "has_synced": true,
+      "path": "select/08_First_Boy_In_This_Town_(Lovesick)_Scritti_Politti.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "This Town",
+      "artist": "The Go-Go's",
+      "has_synced": true,
+      "path": "select/09_This_Town_The_Go-Go's.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "This Town",
+      "artist": "The Go-Go's",
+      "has_synced": false,
+      "path": "select/10_This_Town_The_Go-Go's.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "This Town",
+      "artist": "The Stranglers",
+      "has_synced": false,
+      "path": "select/11_This_Town_The_Stranglers.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "This Town (feat. Sasha Sloan)",
+      "artist": "Kygo",
+      "has_synced": true,
+      "path": "select/12_This_Town_(feat._Sasha_Sloan)_Kygo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "This Town",
+      "artist": "Kygo",
+      "has_synced": true,
+      "path": "select/13_This_Town_Kygo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Love This Town",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/14_I_Love_This_Town_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Love This Town - Live Version",
+      "artist": "Bon Jovi",
+      "has_synced": false,
+      "path": "select/15_I_Love_This_Town_-_Live_Version_Bon_Jovi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "This Town",
+      "artist": "Niall Horan",
+      "has_synced": false,
+      "path": "select/pl_01_This_Town_Niall_Horan.txt"
+    }
+  ]
+}
